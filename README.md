@@ -3,12 +3,11 @@
 [paper link](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
 
 ## Environment
-* Ubuntu 16.04
-* Python 2.7.12
-* TensorFlow 1.2.1
-* CUDA 8.0
-* cudnn 5.1
-* NVIDIA GTX Titan X (Pascal)
+* Ubuntu MacOS  10.13.3
+* Python 3.6.4
+* TensorFlow 1.4.1
+* CUDA N/A
+* cudnn N/A
 
 ## Installation
 ```
