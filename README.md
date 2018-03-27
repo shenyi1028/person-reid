@@ -3,7 +3,7 @@
 [paper link](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ahmed_An_Improved_Deep_2015_CVPR_paper.pdf)
 
 ## Environment
-* Ubuntu MacOS  10.13.3
+* MacOS  10.13.3
 * Python 3.6.4
 * TensorFlow 1.4.1
 * CUDA N/A
